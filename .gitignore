@@ -7,4 +7,5 @@
 /src/.umi-test
 /dist
 /.idea
+/src-tauri/.idea
 .swc
